@@ -188,12 +188,3 @@ if st.session_state.writing_mode:
     op3stream.show(fmt='lily.png', fp='option3') #4+1+1
     with c1:
         st.image('option3.png')
-
-
-
-#to do
-#image sizes
-#option names on button
-#containers to align buttons
-#autofill
-#ties
